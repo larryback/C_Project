@@ -1,3 +1,2 @@
-﻿  example03-01.c
-example03-01.obj : error LNK2005: _main이(가) C_Project.obj에 이미 정의되어 있습니다.
-C:\C_Project\C_Project_Solution\Debug\C_Project.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  소스.cpp
+C:\C_Project\C_Project_Solution\C_Project\소스.cpp(3,1): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.

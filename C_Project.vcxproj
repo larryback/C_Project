@@ -153,6 +153,12 @@
   <ItemGroup>
     <ClCompile Include="C_Project.cpp" />
     <ClCompile Include="example03-01.c" />
+    <ClCompile Include="example05-04.c" />
+    <ClCompile Include="helloworld.c" />
+    <ClCompile Include="소스.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Arithmetic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
