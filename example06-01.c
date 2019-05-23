@@ -12,10 +12,7 @@ void main(){
 	
 	printf("%c %c %c %c %c\n", chr[0], chr[1], chr[2], chr[3], chr[4]);
 	
-	for(i=0;i<5;i++){
+	for(i=0;i<5;i++)
 		printf("%d", number[i]);
 	    printf("\n\n");	
-		
-	}
-	
 }
